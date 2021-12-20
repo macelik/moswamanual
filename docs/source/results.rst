@@ -6,7 +6,7 @@ Results
 The Overall Workflow
 --------------------
 
-The overall worflow of MoSwA is illustrated in the Figure below. MoSwA Web as well as the stand alone version will output 6 files. We will describe each of them in here. 
+The overall worflow of MoSwA is illustrated in the Figure below. MoSwA Webserver, as well as the stand alone version, will output 6 files. We will describe each of them in here. 
 
 .. figure:: figs/Fig1_v1.png
 
@@ -15,7 +15,7 @@ The overall worflow of MoSwA is illustrated in the Figure below. MoSwA Web as we
 Short Summary
 -------------
 
-You will be directed to short summary report page once the analysis is done. Additionally, the same report is provided as .html file in the stand alone version. At the top of this report a brief statistical summary is reported to the user, including;
+You will be directed to a short summary report page once the analysis is done. Additionally, the same report is provided as .html file in the stand alone version. At the top of the report would be a brief statistical summary reported to the user, including;
 
   * The input alignment length
   * The highest support for a position
@@ -41,7 +41,7 @@ We produce this for two reasons;
 
   #.  Provide users an alignment view of all the aligned kmer positions, users are able to observe motif switch positions referenced against a consensus sequence built from the index sequences. This allows users to spot neighboring and clustering motif switches as well as the possible inter motif relationship
   
-  #.  Its also to allow assement of neighboring motif switch positions for inter motif switches.
+  #.  It also allows assessment of neighboring motif switch positions for inter motif switches.
   
 Below is the showcase of the alignment view within the short summary page.  
   
@@ -53,7 +53,7 @@ Below is the showcase of the alignment view within the short summary page.
 Network Plot Topology
 ---------------------
 
-MoSwA produces a network dot plot to illustrate the complex interaction of motif switches. You can inspect the network plot right on the MoSwA web as well as download it as html file format. MoSwA stand alone produces this as a seperate html file as well. 
+MoSwA produces a network dot plot to illustrate the complex interaction of motif switches. You can inspect the network plot right on the MoSwA webserver, as well as download it as html file format. MoSwA stand alone produces this as a separate html file.. 
 
 The network plot shows only the user defined motif sites (default is all). It should be noted that the positions with a low support value (user defined) are discarded from the network plot. The network graph is dynamic, users can point at a node to see what it is actually representing. Users can download this plot as html file and take advantage of interactive plot or/and they can export the current view of the plot as png. The network can be divided into 5 components;
 
