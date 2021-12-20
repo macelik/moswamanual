@@ -11,7 +11,7 @@ motif switching, but also provides a multi-faceted and extensive characterisatio
 *	index switch positions are noteworthy and highlighted because highly conserved index at such positions are possibly to be avoided as vaccine targets given the instability of the index;
 *	a pairwise alignment score based on PAM30 is provided for index switches, to determine the physico-chemical spectrum of similarity/variability between the index sequence and the replacing variant motif sequence. 
 
-You can simply upload your aligned file to `MoSwA webserver <http://moswa.bioinfo.perdanauniversity.edu.my//>`_
+You can simply upload your aligned file to `MoSwA webserver <http://moswa.bioinfo.perdanauniversity.edu.my/>`_
 which offers a *simple* and *intuitive* usage.
 
 Check out the :doc:`usage` section for further information, including
