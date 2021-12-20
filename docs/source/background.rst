@@ -20,7 +20,7 @@ Below is the illustration for the sequence motifs:
 
 .. figure:: figs/motifs.png
  
- The different sequence motifs of the aligned sequences were identified as shown with 20 sequences of a model nonamer (9-mer) position. 
+ The different sequence motifs of the aligned sequences are identified as shown with 20 sequences of a model nonamer (9-mer) position. 
  The “Index” nonamer is the most prevalent sequence, present in 8 of the 20 isolates. The “Major” variant is the most common variant of the index 
  (5/20). “Minor” variants are multiple different repeated sequences, each with incidences less than that or occasionally equal of the major variant. 
  “Unique” variants are those represented by a single aligned sequence. “Nonatypes” (boxed) are the distinct variant sequences at a given nonamer 
