@@ -1,9 +1,9 @@
 Usage
 =====
 
-.. _webservice:
+.. _webserver:
 
-Web Service
+Web Server
 -----------
 
 All you need to do is upload your multiple sequence alignment file in .fasta/.fa/.afa format to `MoSwA WebService <http://moswa.bioinfo.perdanauniversity.edu.my/>`_. There are three main parameters to be supplied, altough we have default values. 
