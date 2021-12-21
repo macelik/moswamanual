@@ -6,7 +6,7 @@ Usage
 Web Server
 -----------
 
-All you need to do is upload your multiple sequence alignment file in .fasta/.fa/.afa format to `MoSwA WebService <http://moswa.bioinfo.perdanauniversity.edu.my/>`_. There are three main parameters to be supplied, altough we have default values. 
+All you need to do is upload your multiple sequence alignment file in .fasta/.fa/.afa format to `MoSwA WebServer <http://moswa.bioinfo.perdanauniversity.edu.my/>`_. There are three main parameters to be supplied, altough we have default values. 
 
    -  Motif sites: You can select any motif site(s) to be analyzed. Default is all the motifs (index,major, minor and unique) to be analyzed and reported. 
    -  k-mer size: Value to be applied for the sliding window of k. Default value is 9, because it is typically used for immunological applications, such as measure of antigenic diversity
@@ -61,7 +61,7 @@ After that install Pygraphviz via typing the following in the PowerShell or Comm
 Standalone Usage
 ----------------
 
-Uses the same parameters as web service, and produces the same output files in your local machine. 
+Uses the same parameters as web server, and produces the same output files in your local machine. 
 
 .. code-block:: bash
 
